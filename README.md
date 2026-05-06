@@ -36,7 +36,7 @@ Where:
 * `temperatures.txt` – External temperature datasets for different scenarios (cool, cold, very cold).
 * `*.gif` – Pre-generated simulation results.
 
-## 📊 Quick Start
+## Quick Start
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/your-username/heat-simulation-python.git](https://github.com/your-username/heat-simulation-python.git)
